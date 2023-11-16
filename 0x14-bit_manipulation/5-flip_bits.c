@@ -18,5 +18,5 @@ cur = exclusive >> a;
 if (cur & 1)
 countbit++;
 }
-return(countbit);
+return (countbit);
 }
